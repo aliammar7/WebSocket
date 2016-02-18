@@ -15,4 +15,4 @@ Plan du projet:
 
 5- Qui et Comment implementer Websocket dans javaEE
 
-6- un petit demo (chat application )sur Glassfish 4.0
+6- un petit demo sur Glassfish 4.0
