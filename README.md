@@ -1,3 +1,7 @@
+id Cnam: 8817 f
+
+Nom :  Ali Moustafa Ammar
+
 # WebSocket
 Une repertoire qui contient le plan de ma presentation et le code source de mon projet
 
@@ -16,3 +20,4 @@ Plan du projet:
 5- Qui et Comment implementer Websocket dans javaEE
 
 6- un petit demo sur Glassfish 4.0
+
